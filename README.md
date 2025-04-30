@@ -196,10 +196,6 @@
                 <div class="product-card">
                     <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-1594035910387-fea47794261f');"></div>
                     <div class="product-info">
-                        <h3>Jabón de Lavanda</h3>
-                        <p>Relajante y calmante, perfecto para antes de dormir.</p>
-                        <p class="price">$8.99</p>
-                        <a href="#" class="btn">Añadir al carrito</a>
                     </div>
                 </div>
                 
@@ -216,20 +212,12 @@
                 <div class="product-card">
                     <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-1600166898405-da9535204843');"></div>
                     <div class="product-info">
-                        <h3>Jabón de Miel y Avena</h3>
-                        <p>Nutre y suaviza la piel, excelente para pieles sensibles.</p>
-                        <p class="price">$8.99</p>
-                        <a href="#" class="btn">Añadir al carrito</a>
                     </div>
                 </div>
                 
                 <div class="product-card">
                     <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-15972590324816-1df6aee575d0');"></div>
                     <div class="product-info">
-                        <h3>Jabón de Romero y Menta</h3>
-                        <p>Energizante y refrescante, ideal para empezar el día.</p>
-                        <p class="price">$9.49</p>
-                        <a href="#" class="btn">Añadir al carrito</a>
                     </div>
                 </div>
             </div>
