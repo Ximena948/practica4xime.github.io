@@ -50,19 +50,6 @@
             padding: 2rem;
         }
         
-        .hero {
-            background-image: url('https://images.unsplash.com/photo-1600166898405-da9535204843');
-            background-size: cover;
-            background-position: center;
-            height: 400px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            text-align: center;
-            margin-bottom: 2rem;
-        }
-        
         .hero-content {
             background-color: rgba(0, 0, 0, 0.6);
             padding: 2rem;
@@ -207,19 +194,6 @@
                         <p class="price">$9.99</p>
                         <a href="#" class="btn">Añadir al carrito</a>
                     </div>
-                </div>
-                
-                <div class="product-card">
-                    <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-1600166898405-da9535204843');"></div>
-                    <div class="product-info">
-                    </div>
-                </div>
-                
-                <div class="product-card">
-                    <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-15972590324816-1df6aee575d0');"></div>
-                    <div class="product-info">
-                    </div>
-                </div>
             </div>
         </section>
         
