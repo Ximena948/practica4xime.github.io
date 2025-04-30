@@ -1,5 +1,3 @@
-# practica4xime.github.io
-Ximena Martínez López
 <!DOCTYPE html>
 <html lang="es">
 <head>
