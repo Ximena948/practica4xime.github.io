@@ -150,8 +150,8 @@ Ximena Martínez López
 <body>
     <header>
         <div class="container">
-            <h1>Aromas del Alma</h1>
-            <p>Jabones artesanales 100% naturales hechos con amor</p>
+            <h1>¨ESCENCIAS NATURALES EN TU PIEL¨</h1>
+            <p>Jabones artesanales creados con amor ,ideales para consentir tu piel con ingredientes naturales y fragancias unicas.</p>
         </div>
     </header>
     
