@@ -181,10 +181,7 @@
             <h2>Nuestra Colección de Jabones</h2>
             <div class="product-grid">
                 <div class="product-card">
-                    <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-1594035910387-fea47794261f');"></div>
-                    <div class="product-info">
-                    </div>
-                </div>
+                    
                 
                 <div class="product-card">
                     <div class="product-img" style="background-image: url('https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec');"></div>
